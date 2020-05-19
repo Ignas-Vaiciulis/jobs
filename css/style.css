@@ -1,0 +1,22 @@
+body {
+    background-color: #222831;
+}
+
+h1{
+  color:#00adb5;
+}
+
+hr{
+  border-top: 8px dotted #393e46;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.chart {
+    width: 100%; 
+    min-height: 200px;
+
+  }
+  .row {
+    margin:0 !important;
+  }
